@@ -1,6 +1,5 @@
 #' ---
 #' title: "Yelp Dataset Challenge"
-#' author: "Xi, Peng"
 #' date: "Apr. 21, 2015"
 #' ---
 rm(list = ls())
